@@ -1,0 +1,6 @@
+Tell Deyao BEFORE You use any of the below api keys
+
+OpenWeatherMap:
+	api_key="Your API HERE"
+Google Maps API:
+	api_key="Your API HERE"

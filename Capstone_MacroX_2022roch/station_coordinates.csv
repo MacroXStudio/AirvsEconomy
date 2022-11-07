@@ -1,0 +1,184 @@
+,Station,Longitude,Latitude
+0,"Andhra Pradesh_Vijayawada_PWD Grounds, Vijayawada - APPCB",80.6313553,16.5061942
+1,"Andhra Pradesh_Visakhapatnam_GVM Corporation, Visakhapatnam - APPCB",83.2184815,17.6868159
+2,"Bihar_Aurangabad_Gurdeo Nagar, Aurangabad - BSPCB",84.3680054,24.7548649
+3,"Bihar_Patna_DRM Office Danapur, Patna - BSPCB",85.04429929999999,25.5856237
+4,"Bihar_Patna_Govt. High School Shikarpur, Patna - BSPCB",85.2272332,25.5932705
+5,"Bihar_Patna_IGSC Planetarium Complex, Patna - BSPCB",85.1375645,25.5940947
+6,"Bihar_Patna_Rajbansi Nagar, Patna - BSPCB",85.1119721,25.603603
+7,"Bihar_Patna_Samanpura, Patna - BSPCB",85.08456749999999,25.6074609
+8,"Chandigarh_Chandigarh_Sector 22, Chandigarh - CPCC",76.77263339999999,30.7320385
+9,"Chandigarh_Chandigarh_Sector-25, Chandigarh - CPCC",76.7583714,30.7512305
+10,"Chandigarh_Chandigarh_Sector-53, Chandigarh - CPCC",76.7284448,30.7163083
+11,"Chhattisgarh_Bhilai_Civic Center, Bhilai - Bhilai Steel Plant",81.3426916,21.1786446
+12,"Delhi_Delhi_Alipur, Delhi - DPCC",77.13313629999999,28.7972263
+13,"Delhi_Delhi_Anand Vihar, Delhi - DPCC",77.30270589999999,28.650218
+14,"Delhi_Delhi_Ashok Vihar, Delhi - DPCC",77.17652389999999,28.6909791
+15,"Delhi_Delhi_Aya Nagar, Delhi - IMD",77.1329417,28.4720443
+16,"Delhi_Delhi_Bawana, Delhi - DPCC",77.0483355,28.793229
+17,"Delhi_Delhi_Burari Crossing, Delhi - IMD",77.19738,28.7285
+18,"Delhi_Delhi_Chandni Chowk, Delhi - IITM",77.23033699999999,28.6505331
+19,"Delhi_Delhi_CRRI Mathura Road, Delhi - IMD",77.2750344,28.5517202
+20,"Delhi_Delhi_Dr. Karni Singh Shooting Range, Delhi - DPCC",77.2670954,28.4997268
+21,"Delhi_Delhi_DTU, Delhi - CPCB",77.1183137,28.7499867
+22,"Delhi_Delhi_Dwarka-Sector 8, Delhi - DPCC ",77.070837,28.5720379
+23,"Delhi_Delhi_East Arjun Nagar, Delhi - CPCB",77.29474669999999,28.65617319999999
+24,"Delhi_Delhi_IGI Airport (T3), Delhi - IMD",77.0844015,28.5550838
+25,"Delhi_Delhi_IHBAS, Dilshad Garden, Delhi - CPCB",77.3049532,28.6826275
+26,"Delhi_Delhi_ITO, Delhi - CPCB",77.2505733,28.6308294
+27,"Delhi_Delhi_Jahangirpuri, Delhi - DPCC",77.16663129999999,28.7296171
+28,"Delhi_Delhi_Jawaharlal Nehru Stadium, Delhi - DPCC",77.2333304,28.5833047
+29,"Delhi_Delhi_Lodhi Road, Delhi - IITM",77.2280791,28.5910626
+30,"Delhi_Delhi_Lodhi Road, Delhi - IMD",77.2280791,28.5910626
+31,"Delhi_Delhi_Major Dhyan Chand National Stadium, Delhi - DPCC",77.2367984,28.612569
+32,"Delhi_Delhi_Mandir Marg, Delhi - DPCC",77.2004746,28.6341752
+33,"Delhi_Delhi_Mundka, Delhi - DPCC",77.034937,28.6823144
+34,"Delhi_Delhi_Najafgarh, Delhi - DPCC",76.9854526,28.6090126
+35,"Delhi_Delhi_Narela, Delhi - DPCC",77.08921509999999,28.8548818
+36,"Delhi_Delhi_Nehru Nagar, Delhi - DPCC",77.2505733,28.5706035
+37,"Delhi_Delhi_North Campus, DU, Delhi - IMD",77.210336,28.687193
+38,"Delhi_Delhi_NSIT Dwarka, Delhi - CPCB",77.0379647,28.6100216
+39,"Delhi_Delhi_Okhla Phase-2, Delhi - DPCC",77.2764329,28.5357628
+40,"Delhi_Delhi_Patparganj, Delhi - DPCC",77.30457109999999,28.6347308
+41,"Delhi_Delhi_Punjabi Bagh, Delhi - DPCC",77.12847649999999,28.6706933
+42,"Delhi_Delhi_Pusa, Delhi - DPCC",77.1571443,28.6376724
+43,"Delhi_Delhi_Pusa, Delhi - IMD",77.1571443,28.6376724
+44,"Delhi_Delhi_R K Puram, Delhi - DPCC",77.1767435,28.5660075
+45,"Delhi_Delhi_Rohini, Delhi - DPCC",77.0822151,28.73826769999999
+46,"Delhi_Delhi_Shadipur, Delhi - CPCB",77.1562196,28.651027
+47,"Delhi_Delhi_Sirifort, Delhi - CPCB",77.214799,28.5505827
+48,"Delhi_Delhi_Sonia Vihar, Delhi - DPCC",77.2495891,28.7332472
+49,"Delhi_Delhi_Sri Aurobindo Marg, Delhi - DPCC",77.2063073,28.5562223
+50,"Delhi_Delhi_Vivek Vihar, Delhi - DPCC",77.3176541,28.6712458
+51,"Delhi_Delhi_Wazirpur, Delhi - DPCC",77.1604397,28.69754439999999
+52,"Gujarat_Gandhinagar_GIFT City, Gandhinagar - IITM",72.6831136,23.1586396
+53,"Gujarat_Gandhinagar_IIPHG Lekawada, Gandhinagar - IITM",72.6874392,23.2446512
+54,"Haryana_Faridabad_New Industrial Town, Faridabad - HSPCB",77.301675,28.3922002
+55,"Haryana_Faridabad_Sector 11, Faridabad - HSPCB",77.3220128,28.3704165
+56,"Haryana_Faridabad_Sector 30, Faridabad - HSPCB",77.3223915,28.4425186
+57,"Haryana_Faridabad_Sector- 16A, Faridabad - HSPCB",77.3184825,28.4060902
+58,"Jammu and Kashmir_Srinagar_Rajbagh, Srinagar - JKSPCB",74.8287807,34.0661987
+59,"Karnataka_Belgaum_Ramteerth Nagar, Belgaum - KSPCB",74.54339879999999,15.8907358
+60,"Karnataka_Bengaluru_Bapuji Nagar, Bengaluru - KSPCB",77.53972929999999,12.95678
+61,"Karnataka_Bengaluru_BTM Layout, Bengaluru - CPCB",77.6101163,12.9165757
+62,"Karnataka_Bengaluru_BWSSB Kadabesanahalli, Bengaluru - CPCB",77.6982627,12.9473227
+63,"Karnataka_Bengaluru_City Railway Station, Bengaluru - KSPCB",77.5657561,12.9758403
+64,"Karnataka_Bengaluru_Hebbal, Bengaluru - KSPCB",77.59878739999999,13.0353557
+65,"Karnataka_Bengaluru_Hombegowda Nagar, Bengaluru - KSPCB",77.5948946,12.9375448
+66,"Karnataka_Bengaluru_Jayanagar 5th Block, Bengaluru - KSPCB",77.5841502,12.920789
+67,"Karnataka_Bengaluru_Peenya, Bengaluru - CPCB",77.5196763,13.0285133
+68,"Karnataka_Bengaluru_Sanegurava Halli, Bengaluru - KSPCB",77.5945627,12.9715987
+69,"Karnataka_Bengaluru_Silk Board, Bengaluru - KSPCB",77.6212483,12.9173312
+70,"Karnataka_Mangalore_Kadri, Mangalore - KSPCB",74.85915779999999,12.8804608
+71,"Karnataka_Mysuru_Hebbal 1st Stage, Mysuru - KSPCB",76.6209903,12.3500813
+72,"Kerala_Kochi_Vyttila, Kochi - Kerala PCB",76.3182346,9.968199
+73,"Kerala_Kozhikode_Palayam, Kozhikode - Kerala PCB",75.78389949999999,11.2488252
+74,"Kerala_Thiruvananthapuram_Kariavattom, Thiruvananthapuram - Kerala PCB",76.8908318,8.5678435
+75,"Kerala_Thiruvananthapuram_Plammoodu, Thiruvananthapuram - Kerala PCB",76.9477422,8.5140567
+76,"Madhya Pradesh_Bhopal_T T Nagar, Bhopal - MPPCB",77.39864709999999,23.2357524
+77,"Madhya Pradesh_Gwalior_City Center, Gwalior - MPPCB",78.1920664,26.2035227
+78,"Madhya Pradesh_Gwalior_Phool Bagh, Gwalior - Mondelez Ind. Food",78.16926889999999,26.2103607
+79,"Madhya Pradesh_Indore_Chhoti Gwaltoli, Indore - MPPCB",75.8700466,22.7152096
+80,"Madhya Pradesh_Jabalpur_Marhatal, Jabalpur - MPPCB",79.9339608,23.1670639
+81,"Maharashtra_Aurangabad_More Chowk Waluj, Aurangabad - MPCB",75.2466299,19.8406027
+82,"Maharashtra_Mumbai_Bandra Kurla Complex, Mumbai - IITM",72.87026469999999,19.0687893
+83,"Maharashtra_Mumbai_Bandra, Mumbai - MPCB",72.8295287,19.0595596
+84,"Maharashtra_Mumbai_Borivali East, Mumbai - IITM",72.86085589999999,19.2297814
+85,"Maharashtra_Mumbai_Borivali East, Mumbai - MPCB",72.86085589999999,19.2297814
+86,"Maharashtra_Mumbai_Chakala-Andheri East, Mumbai - IITM",72.8582672,19.1097712
+87,"Maharashtra_Mumbai_Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",72.8745017,19.0974373
+88,"Maharashtra_Mumbai_Colaba, Mumbai - MPCB",72.8147123,18.9067031
+89,"Maharashtra_Mumbai_Deonar, Mumbai - IITM",72.9102511,19.0447048
+90,"Maharashtra_Mumbai_Kandivali East, Mumbai - MPCB",72.8736892,19.2004765
+91,"Maharashtra_Mumbai_Khindipada-Bhandup West, Mumbai - IITM",72.9239095,19.1599078
+92,"Maharashtra_Mumbai_Kurla, Mumbai - MPCB",72.8844721,19.0726295
+93,"Maharashtra_Mumbai_Malad West, Mumbai - IITM",72.835543,19.1889541
+94,"Maharashtra_Mumbai_Mazgaon, Mumbai - IITM",72.8421341,18.9644251
+95,"Maharashtra_Mumbai_Mulund West, Mumbai - MPCB",72.942537,19.1725542
+96,"Maharashtra_Mumbai_Navy Nagar-Colaba, Mumbai - IITM",72.81314320000001,18.8979567
+97,"Maharashtra_Mumbai_Powai, Mumbai - MPCB",72.9059747,19.1175993
+98,"Maharashtra_Mumbai_Siddharth Nagar-Worli, Mumbai - IITM",72.81388179999999,18.9978358
+99,"Maharashtra_Mumbai_Sion, Mumbai - MPCB",72.86189519999999,19.0390214
+100,"Maharashtra_Mumbai_Vasai West, Mumbai - MPCB",72.8155136,19.3664631
+101,"Maharashtra_Mumbai_Vile Parle West, Mumbai - MPCB",72.8367535,19.1071283
+102,"Maharashtra_Nashik_Gangapur Road, Nashik - MPCB",73.735682,20.0168226
+103,"Maharashtra_Pune_Alandi, Pune - IITM",73.89503359999999,18.6782865
+104,"Maharashtra_Pune_Bhosari, Pune - IITM",73.84679779999999,18.6320627
+105,"Maharashtra_Pune_Hadapsar, Pune - IITM",73.92591019999999,18.508934
+106,"Maharashtra_Pune_Karve Road, Pune - MPCB",73.8197888,18.5033095
+107,"Maharashtra_Pune_Mhada Colony, Pune - IITM",73.9109977,18.5734634
+108,"Maharashtra_Pune_MIT-Kothrud, Pune - IITM",73.81488259999999,18.5177542
+109,"Maharashtra_Pune_Revenue Colony-Shivajinagar, Pune - IITM",73.8470523,18.5282786
+110,"Maharashtra_Solapur_Solapur, Solapur - MPCB",75.9063906,17.6599188
+111,"Manipur_Imphal_DM College of Science, Imphal - Manipur PCB",93.94295819999999,24.8216168
+112,"Manipur_Imphal_Manipur University, Imphal - Manipur PCB",93.92804249999999,24.7522876
+113,"Meghalaya _Shillong_JN Stadium, Shillong - Meghalaya PCB",91.8940855,25.5801
+114,"Meghalaya _Shillong_Lumpyngngad, Shillong - Meghalaya PCB",91.89848649999999,25.5585941
+115,"Mizoram_Aizawl_Sikulpuikawn, Aizawl - Mizoram PCB",92.7181174,23.7173952
+116,"Nagaland_Kohima_PWD Juction, Kohima - NPCB",94.10225369999999,25.661356
+117,"Puducherry_Puducherry_Jawahar Nagar, Puducherry - PPCC",79.8027077,11.9306033
+118,"Punjab_Amritsar_Golden Temple, Amritsar - PPCB",74.8764849,31.61998029999999
+119,"Punjab_Jalandhar_Civil Line, Jalandhar - PPCB",75.5793401,31.3208006
+120,"Punjab_Ludhiana_Punjab Agricultural University, Ludhiana - PPCB",75.8065531,30.9041
+121,"Rajasthan_Jaipur_Adarsh Nagar, Jaipur - RSPCB",75.8271749,26.9018769
+122,"Rajasthan_Jaipur_Police Commissionerate, Jaipur - RSPCB",75.8017169,26.9163897
+123,"Rajasthan_Jodhpur_Collectorate, Jodhpur - RSPCB",73.0366998,26.2918067
+124,"Rajasthan_Kota_Shrinath Puram, Kota - RSPCB",75.8246657,25.136387
+125,"Sikkim_Gangtok_Zero Point GICI, Gangtok - SSPCB",88.6138113,27.3313512
+126,"Tamil Nadu_Chennai_Arumbakkam, Chennai - TNPCB",80.2101773,13.0724233
+127,Tamil Nadu_Chennai_Gandhi Nagar,72.63694149999999,23.2156354
+128,"Tamil Nadu_Chennai_Kodungaiyur, Chennai - TNPCB",80.2478495,13.1374551
+129,"Tamil Nadu_Chennai_Manali Village, Chennai - TNPCB",80.2700737,13.1779289
+130,"Tamil Nadu_Chennai_Manali, Chennai - CPCB",80.2700737,13.1779289
+131,"Tamil Nadu_Chennai_Perungudi, Chennai - TNPCB",80.2461057,12.9653652
+132,"Tamil Nadu_Chennai_Royapuram, Chennai - TNPCB",80.2954115,13.1137008
+133,"Tamil Nadu_Chennai_Velachery Res. Area, Chennai - CPCB",80.214426,12.9787996
+134,"Tamil Nadu_Coimbatore_SIDCO Kurichi, Coimbatore - TNPCB",76.9772675,10.9438095
+135,"Telangana_Hyderabad_Bollaram Industrial Area, Hyderabad - TSPCB",78.3514088,17.5432727
+136,"Telangana_Hyderabad_Central University, Hyderabad - TSPCB",78.32638759999999,17.456737
+137,"Telangana_Hyderabad_ECIL Kapra, Hyderabad - TSPCB",78.5788601,17.4639628
+138,"Telangana_Hyderabad_ICRISAT Patancheru, Hyderabad - TSPCB",78.27519389999999,17.5110595
+139,"Telangana_Hyderabad_IDA Pashamylaram, Hyderabad - TSPCB",78.1849427,17.5324702
+140,"Telangana_Hyderabad_IITH Kandi, Hyderabad - TSPCB",78.1230401,17.5947027
+141,"Tripura_Agartala_Bardowali, Agartala - Tripura SPCB",91.27567400000001,23.8219021
+142,"Tripura_Agartala_Kunjaban, Agartala - Tripura SPCB",91.29030739999999,23.8635079
+143,"Uttar Pradesh_Agra_Manoharpur, Agra - UPPCB",78.0266735,27.2344638
+144,"Uttar Pradesh_Agra_Rohta, Agra - UPPCB",78.0024134,27.1092929
+145,"Uttar Pradesh_Agra_Sanjay Palace, Agra - UPPCB",78.0059814,27.1986569
+146,"Uttar Pradesh_Agra_Sector-3B Avas Vikas Colony, Agra - UPPCB",77.9639624,27.1997026
+147,"Uttar Pradesh_Agra_Shahjahan Garden, Agra - UPPCB",78.0251692,27.1747896
+148,"Uttar Pradesh_Agra_Shastripuram, Agra - UPPCB",77.9253155,27.20397
+149,"Uttar Pradesh_Bareilly_Civil Lines, Bareilly - UPPCB",79.43390029999999,28.3349422
+150,"Uttar Pradesh_Bareilly_Rajendra Nagar, Bareilly - UPPCB",79.4261906,28.3872102
+151,"Uttar Pradesh_Ghaziabad_Indirapuram, Ghaziabad - UPPCB",77.3695166,28.6460176
+152,"Uttar Pradesh_Ghaziabad_Sanjay Nagar, Ghaziabad - UPPCB",77.4549679,28.6939957
+153,"Uttar Pradesh_Ghaziabad_Vasundhara, Ghaziabad - UPPCB",77.37344,28.6623758
+154,"Uttar Pradesh_Gorakhpur_Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",83.4331276,26.7314295
+155,"Uttar Pradesh_Kanpur_FTI Kidwai Nagar, Kanpur - UPPCB",80.3282175,26.4284187
+156,"Uttar Pradesh_Kanpur_Nehru Nagar, Kanpur - UPPCB",80.3237548,26.4715909
+157,"Uttar Pradesh_Kanpur_NSI Kalyanpur, Kanpur - UPPCB",80.251966,26.5068262
+158,"Uttar Pradesh_Lucknow_Central School, Lucknow - CPCB",80.94616599999999,26.8466937
+159,"Uttar Pradesh_Lucknow_Gomti Nagar, Lucknow - UPPCB",81.0072193,26.8496217
+160,"Uttar Pradesh_Lucknow_Kukrail Picnic Spot-1, Lucknow - UPPCB",80.9722901,26.891225
+161,"Uttar Pradesh_Lucknow_Lalbagh, Lucknow - CPCB",80.9415089,26.8459624
+162,"Uttar Pradesh_Lucknow_Nishant Ganj, Lucknow - UPPCB",80.94980149999999,26.8669313
+163,"Uttar Pradesh_Meerut_Ganga Nagar, Meerut - UPPCB",77.7599208,29.0009035
+164,"Uttar Pradesh_Meerut_Jai Bhim Nagar, Meerut - UPPCB",77.75951309999999,28.9579131
+165,"Uttar Pradesh_Meerut_Pallavpuram Phase 2, Meerut - UPPCB",77.7151616,29.0641002
+166,"Uttar Pradesh_Moradabad_Buddhi Vihar, Moradabad - UPPCB",78.7221251,28.8320769
+167,"Uttar Pradesh_Moradabad_Eco Herbal Park, Moradabad - UPPCB",78.6966886,28.8412553
+168,"Uttar Pradesh_Moradabad_Employment Office, Moradabad - UPPCB",78.7387581,28.8853105
+169,"Uttar Pradesh_Prayagraj_Jhunsi, Prayagraj - UPPCB",81.9139692,25.4290183
+170,"Uttar Pradesh_Prayagraj_Motilal Nehru NIT, Prayagraj - UPPCB",81.8627391,25.4934118
+171,"Uttar Pradesh_Varanasi_Ardhali Bazar, Varanasi - UPPCB",82.9808861,25.3476918
+172,"Uttar Pradesh_Varanasi_Bhelupur, Varanasi - UPPCB",82.9962631,25.3016276
+173,"Uttar Pradesh_Varanasi_IESD Banaras Hindu University, Varanasi - UPPCB",82.995184,25.2622975
+174,"Uttar Pradesh_Varanasi_Maldahiya, Varanasi - UPPCB",82.9951758,25.325495
+175,"Uttarakhand_Dehradun_Doon University, Dehradun - UKPCB",78.0442659,30.2690156
+176,"West Bengal_Asansol_Asansol Court Area, Asansol - WBPCB",86.9461361,23.6871984
+177,"West Bengal_Kolkata_Ballygunge, Kolkata - WBPCB",88.36590830000002,22.5280352
+178,"West Bengal_Kolkata_Bidhannagar, Kolkata - WBPCB",88.414312,22.5796842
+179,"West Bengal_Kolkata_Fort William, Kolkata - WBPCB",88.33607649999999,22.5546875
+180,"West Bengal_Kolkata_Jadavpur, Kolkata - WBPCB",88.3709008,22.4954988
+181,"West Bengal_Kolkata_Rabindra Bharati University, Kolkata - WBPCB",88.3593841,22.5844542
+182,"West Bengal_Kolkata_Victoria, Kolkata - WBPCB",88.3425578,22.5448082
